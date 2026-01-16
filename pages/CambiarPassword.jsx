@@ -29,6 +29,7 @@ const CambiarPassword = () => {
         return () => clearTimeout(timer)
     },[alerta])
 
+ 
     return(
         <>
             <AdminNav />
